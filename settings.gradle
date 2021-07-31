@@ -1,0 +1,2 @@
+rootProject.name = "Par_25 My Diary App - SQLite & RecyclerView"
+include ':app'
